@@ -1,0 +1,14 @@
+C:\webApi\PersonelWebApi\PersonelWebApi\bin\Debug\netcoreapp2.1\PersonelWebApi.deps.json
+C:\webApi\PersonelWebApi\PersonelWebApi\bin\Debug\netcoreapp2.1\PersonelWebApi.runtimeconfig.json
+C:\webApi\PersonelWebApi\PersonelWebApi\bin\Debug\netcoreapp2.1\PersonelWebApi.runtimeconfig.dev.json
+C:\webApi\PersonelWebApi\PersonelWebApi\bin\Debug\netcoreapp2.1\PersonelWebApi.dll
+C:\webApi\PersonelWebApi\PersonelWebApi\bin\Debug\netcoreapp2.1\PersonelWebApi.pdb
+C:\webApi\PersonelWebApi\PersonelWebApi\obj\Debug\netcoreapp2.1\PersonelWebApi.csprojAssemblyReference.cache
+C:\webApi\PersonelWebApi\PersonelWebApi\obj\Debug\netcoreapp2.1\PersonelWebApi.csproj.CoreCompileInputs.cache
+C:\webApi\PersonelWebApi\PersonelWebApi\obj\Debug\netcoreapp2.1\PersonelWebApi.RazorAssemblyInfo.cache
+C:\webApi\PersonelWebApi\PersonelWebApi\obj\Debug\netcoreapp2.1\PersonelWebApi.RazorAssemblyInfo.cs
+C:\webApi\PersonelWebApi\PersonelWebApi\obj\Debug\netcoreapp2.1\PersonelWebApi.AssemblyInfoInputs.cache
+C:\webApi\PersonelWebApi\PersonelWebApi\obj\Debug\netcoreapp2.1\PersonelWebApi.AssemblyInfo.cs
+C:\webApi\PersonelWebApi\PersonelWebApi\obj\Debug\netcoreapp2.1\PersonelWebApi.RazorTargetAssemblyInfo.cache
+C:\webApi\PersonelWebApi\PersonelWebApi\obj\Debug\netcoreapp2.1\PersonelWebApi.dll
+C:\webApi\PersonelWebApi\PersonelWebApi\obj\Debug\netcoreapp2.1\PersonelWebApi.pdb
